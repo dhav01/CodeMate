@@ -1,0 +1,8 @@
+.card:hover .content{
+    opacity: 1;
+}
+
+.card:hover .icons{
+    opacity: 1;
+    transform: translateY(0px);
+}

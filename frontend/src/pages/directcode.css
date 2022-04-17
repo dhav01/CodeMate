@@ -1,0 +1,35 @@
+textarea::-webkit-input-placeholder {
+  color: #1976D2;
+}
+
+textarea:-moz-placeholder { 
+  color: #1976D2;  
+}
+
+textarea::-moz-placeholder {  
+  color: #1976D2;  
+}
+
+textarea:-ms-input-placeholder {
+  color: #1976D2;  
+}
+
+textarea::placeholder {
+  color: #1976D2;  
+  font-size: 1.05em;
+  font-weight: 510;
+}
+  input:focus,
+  select:focus,
+  textarea:focus,
+  button:focus {
+    outline: none !important;
+  }
+  select {
+    padding: 10px;
+    width: 125px;
+    border-radius:5px;
+    color:#F1FAEE;
+    border:2px solid #1976D2;
+    background: #1D3557;
+  }
