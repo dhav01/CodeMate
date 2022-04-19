@@ -32,10 +32,9 @@
     "web-vitals": "^2.1.4",
     "yarn": "^1.22.17"
   },
-  "devDependencies": {
-    "react-scripts": "5.0.0"
-  },
+  "devDependencies": {},
   "scripts": {
+    "react-scripts": "5.0.0",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
