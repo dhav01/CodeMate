@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "http://localhost:5555",
+  "proxy": "https://my-codemate.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
@@ -36,14 +36,10 @@
     "react-scripts": "5.0.0"
   },
   "scripts": {
-    "start": "node backend/app.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "engines": {
-    "node": "14.18.1"
   },
   "eslintConfig": {
     "extends": [
