@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3304f1d.css",
+    "main.js": "/static/js/main.2efe5936.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/about.jpg": "/static/media/about.6b12ec0151ff29e9a4e6.jpg",
+    "static/media/dhaval.jpeg": "/static/media/dhaval.44b8b89bb3a5d86f0293.jpeg",
+    "static/media/param.jpeg": "/static/media/param.309064f3a5bd95a37b7c.jpeg",
+    "static/media/hero_photo.svg": "/static/media/hero_photo.70dbf2f8522ef1ffe458acbaa204d9ba.svg",
+    "static/media/feature_dark.svg": "/static/media/feature_dark.0a9779c13e6917f5b620634b61b958cf.svg",
+    "static/media/feature_save.svg": "/static/media/feature_save.1d788c8c4027125324fb91231e2d62e0.svg",
+    "static/media/logo.svg": "/static/media/logo.7391f042e8097de28fc8e14166ed2b08.svg",
+    "static/media/feature_note.svg": "/static/media/feature_note.1b023cbacc792acf1b7657a66760ff04.svg",
+    "static/media/perlicon.svg": "/static/media/perlicon.21b98c256031c88b48fe8aac11682f72.svg",
+    "static/media/c++icon.svg": "/static/media/c++icon.5eb1abc418ed3dd0e1d217f2e5fb2d1e.svg",
+    "static/media/javaicon.svg": "/static/media/javaicon.5386b56c3206b6bd70b1053534d73dc3.svg",
+    "static/media/cicon.svg": "/static/media/cicon.f3c93ffaea1321f5cfc0092ef579e390.svg",
+    "static/media/pythonicon.svg": "/static/media/pythonicon.026a62687ef705a39cfc755d7457859c.svg",
+    "index.html": "/index.html",
+    "static/media/rubyicon.svg": "/static/media/rubyicon.13b152aea5f353835a2cab28ee8f078d.svg",
+    "main.e3304f1d.css.map": "/static/css/main.e3304f1d.css.map",
+    "main.2efe5936.js.map": "/static/js/main.2efe5936.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3304f1d.css",
+    "static/js/main.2efe5936.js"
+  ]
+}
