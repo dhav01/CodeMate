@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "https://my-codemate.herokuapp.com/",
+  "proxy": "https://mycodemate.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
